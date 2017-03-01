@@ -11,6 +11,7 @@ Version number changes (major.minor.micro) in this package denote the following:
 ### Added
 - glmnet 1.0.0 (#14)
 - joblib 0.10.3 (#11)
+- requests-toolbelt 0.7.1
 
 ### Changed
 - Moved conda to version 4.3.11 (#11)

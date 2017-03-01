@@ -29,6 +29,7 @@ dependencies:
 - python=3.6.0
 - pyyaml=3.12
 - requests=2.12.4
+- requests-toolbelt=0.7.1
 - seaborn=0.7.1
 - scipy=0.18.1
 - scikit-learn=0.18.1
