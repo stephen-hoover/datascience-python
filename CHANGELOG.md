@@ -32,6 +32,9 @@ Version number changes (major.minor.micro) in this package denote the following:
 ### Fixed
 - Enabled widgetsnbextension so that ipywidgets works.
 
+### Added
+- openssh-client, enabling outgoing ssh connections from containers
+
 ## [3.3.0] - 2017-11-17
 ### Package Updates
 - civis 1.6.2 -> 1.7.1

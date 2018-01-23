@@ -17,6 +17,7 @@ ENV LANG=en_US.UTF-8 \
 RUN DEBIAN_FRONTEND=noninteractive apt-get update -y --no-install-recommends && \
   apt-get install -y --no-install-recommends software-properties-common && \
   apt-get install -y --no-install-recommends \
+        openssh-client \
         make \
         automake \
         libpq-dev \
